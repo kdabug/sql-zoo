@@ -35,7 +35,7 @@ Complete the readings and tutorials in Sections 2 through 4 and complete the tut
 ### Deliverables:
 
 -  For SQL Zoo, take a screenshot of the nav bar (on the left) with your status filled in. **You do not need to do the quizzes.** Only the steps as indicated above. 
--  Touch a file called `sqlzoo.png` in this repo with the image.
+-  Touch a file (name it something sensible) in this repo with the image.
 -  Push up your file and do a pull request
 
 *********
