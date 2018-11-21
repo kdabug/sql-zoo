@@ -22,6 +22,7 @@ Steps 0 through 6 are:
 -  JOIN
 
 **Bonus**
+Step 7:
 -  More JOIN
 ```
 
