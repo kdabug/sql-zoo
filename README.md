@@ -27,7 +27,7 @@ Steps 0 through 6 are:
 
 Postgresql Tutorial:
 
-Complete the readings and tutorials in Sections 2 through 4 and complete the tutorial. But first, download the [sample database](http://www.postgresqltutorial.com/postgresql-sample-database/). To do this.......  We **will** review this on Monday, after the weekend.
+Complete the readings in Sections 2 through 4 and complete the tutorial. We **will** review this on Monday, after the weekend.
 
 
 ![](https://media.giphy.com/media/3oriNP2rOI1ah2Rtde/giphy.gif)
@@ -37,6 +37,7 @@ Complete the readings and tutorials in Sections 2 through 4 and complete the tut
 -  For SQL Zoo, take a screenshot of the nav bar (on the left) with your status filled in. **You do not need to do the quizzes.** Only the steps as indicated above. 
 -  Touch a file called `sqlzoo.png` in this repo with the image.
 -  Push up your file and do a pull request
+-  HW is due Sunday 11/23 at 11pm
 
 *********
 #### Have a fun Thanksgiving and extended weekend!!!!
