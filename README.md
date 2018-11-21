@@ -27,7 +27,7 @@ Steps 0 through 6 are:
 
 #### Postgresql Tutorial:
 
-Complete the readings and tutorials in Sections 2 through 4 and complete the tutorial. But first, download the [sample database](http://www.postgresqltutorial.com/postgresql-sample-database/). To do this.......  We **will** review this on Monday, after the weekend.
+Complete the readings in Sections 2 through 4 and complete the tutorial.  We **will** review this on Monday, after the weekend.
 
 
 ![](https://media.giphy.com/media/3oriNP2rOI1ah2Rtde/giphy.gif)
