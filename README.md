@@ -25,7 +25,7 @@ Steps 0 through 6 are:
 -  More JOIN
 ```
 
-Postgresql Tutorial:
+#### Postgresql Tutorial:
 
 Complete the readings in Sections 2 through 4 and complete the tutorial. We **will** review this on Monday, after the weekend.
 
