@@ -25,7 +25,7 @@ Steps 0 through 6 are:
 -  More JOIN
 ```
 
-Postgresql Tutorial:
+#### Postgresql Tutorial:
 
 Complete the readings and tutorials in Sections 2 through 4 and complete the tutorial. But first, download the [sample database](http://www.postgresqltutorial.com/postgresql-sample-database/). To do this.......  We **will** review this on Monday, after the weekend.
 
