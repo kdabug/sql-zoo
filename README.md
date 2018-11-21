@@ -34,9 +34,9 @@ Complete the readings and tutorials in Sections 2 through 4 and complete the tut
 
 ### Deliverables:
 
--  Take a screenshot of the nav bar (on the left) with your status filled in. **You do not need to do the quizzes.** Only the steps as indicated above. To take a screenshot on your Mac, press `Shift` + `Command` + `4`
--  Create a file in this repo with the image.
--  Push up your changes, do a PR and don't forget to add your name.
+-  For SQL Zoo, take a screenshot of the nav bar (on the left) with your status filled in. **You do not need to do the quizzes.** Only the steps as indicated above. 
+-  Touch a file called `sqlzoo.png` in this repo with the image.
+-  Push up your file and do a pull request
 
 *********
 #### Have a fun Thanksgiving and extended weekend!!!!
