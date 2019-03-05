@@ -1,4 +1,4 @@
-# Thanksgiving Break HW
+# SQL Zoo
 
 ![](https://media.giphy.com/media/floTZhoQnh8oE/giphy.gif)
 
