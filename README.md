@@ -4,7 +4,7 @@
 
 ### Instructions:
 
-For this homework, we will be practicing more SQL queries and commands using [SQL Zoo](https://sqlzoo.net/).
+For this homework, we will be practicing more SQL queries using [SQL Zoo](https://sqlzoo.net/).
 
 ********
 ### Getting Started:
