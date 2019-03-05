@@ -28,7 +28,7 @@ Steps 0 through 6 are:
 
 ### Deliverables:
 
--  For SQL Zoo, take a screenshot of the nav bar (on the left) with your status filled in. **You do not need to do the quizzes.** Only the steps as indicated above. 
+-  For SQL Zoo, take a screenshot of the status bar (on the left) with your status filled in. **You do not need to do the quizzes.** Only the steps as indicated above. 
 -  Touch a file (name it image) and choose your file extension, in this repo with the screenshot.
 -  You should have at least 6 commits!
 -  Due tonight at 11pm!
