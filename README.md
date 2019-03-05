@@ -4,9 +4,8 @@
 
 ### Instructions:
 
-For this extended weekends homework, we will be practicing more SQL queries and commands using [SQL Zoo](https://sqlzoo.net/) and [Postgresql Tutorial](http://www.postgresqltutorial.com/).  
+For this homework, we will be practicing more SQL queries and commands using [SQL Zoo](https://sqlzoo.net/).
 
-Use the `Reference Section` (1 through 4) beneath the tutorials section of SQL ZOO for more information to complete the assignment.
 ********
 ### Getting Started:
 -  Fork and clone this repo.
@@ -25,18 +24,11 @@ Steps 0 through 6 are:
 -  More JOIN
 ```
 
-#### Postgresql Tutorial:
-
-Complete the readings in Sections 2 through 4 and complete the tutorial.  We **will** review this on Monday, after the weekend.
-
-
-![](https://media.giphy.com/media/3oriNP2rOI1ah2Rtde/giphy.gif)
+![](https://media.giphy.com/media/1gOadI4RGkrFpbMF7r/giphy.gif)
 
 ### Deliverables:
 
 -  For SQL Zoo, take a screenshot of the nav bar (on the left) with your status filled in. **You do not need to do the quizzes.** Only the steps as indicated above. 
--  Touch a file (name it something sensible) in this repo with the image.
--  Push up your file and do a pull request
-
-*********
-#### Have a fun Thanksgiving and extended weekend!!!!
+-  Touch a file (name it image) and choose your file extension, in this repo with the screenshot.
+-  You should have at least 6 commits!
+-  Due tonight at 11pm!
