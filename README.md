@@ -1,6 +1,6 @@
 # Thanksgiving Break HW
 
-![](https://media.giphy.com/media/3o6ZsYGMkqcR5awXV6/giphy.gif)
+![](https://media.giphy.com/media/floTZhoQnh8oE/giphy.gif)
 
 ### Instructions:
 
